@@ -1,4 +1,4 @@
-function sendMessage() {
+function sendMessage() { 
     const input = document.getElementById("chatInput");   
     const chatBox = document.getElementById("chatBox");   
     if (input.value.trim() !== "") {
